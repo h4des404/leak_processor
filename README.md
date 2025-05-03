@@ -121,5 +121,7 @@ Ao final do processo, será exibido:
 Este script foi desenvolvido para facilitar a divisão de arquivos JSON grandes em partes menores com um menu interativo amigável.  
 A biblioteca `colorama` garante uma visualização mais clara e interativa no terminal.
 
+🔗 Entre na nossa comunidade no Discord, [clicando aqui](http://discord.gg/d34thsec).
+
 Contribuições são bem-vindas. 👾  
 By **h4des404 - D34THSEC**
