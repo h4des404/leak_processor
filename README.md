@@ -44,13 +44,7 @@ venv\Scripts\activate     # Windows
 Instale as dependências com:
 
 ```bash
-pip install -r requirements.txt
-```
-
-#### `requirements.txt` recomendado:
-
-```
-colorama
+pip install colorama 
 ```
 
 ---
